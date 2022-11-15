@@ -1,2 +1,2 @@
 # Zebra
-# For loop 
+# For loop in python
