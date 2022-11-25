@@ -14,4 +14,4 @@ for item in num:
     print(item)
 
     pass
-# foy you
+# here for you
