@@ -12,3 +12,6 @@ for i in range(3):
 
 for item in num:
     print(item)
+
+    pass
+# foy you
